@@ -1,0 +1,50 @@
+py -m pdb debug_prog1.py
+from devbs@cisco.com to All Attendees:
+yes maam 
+from phaldar@cisco.com to All Attendees:
+yes
+from kasvenka@cisco.com to All Participants:
+yes mam
+from kasvenka@cisco.com to All Participants:
+no mam
+from kasvenka@cisco.com to All Participants:
+ls
+from kasvenka@cisco.com to All Participants:
+cse
+from vinshriv to All Participants:
+yes mam , electronics 
+from herao@cisco.com to All Participants:
+civil
+from prashjad to All Participants:
+mechanical
+from ahamali@cisco.com to All Participants:
+Commerce
+from Pooja Sharma to All Participants:
+import os
+# get the current working dir
+cuurent_dir=os.getcwd()
+print('current working dir',current_dir)
+from kasvenka@cisco.com to All Participants:
+yes mam
+from Pooja Sharma to All Participants:
+files_in_dir=os.listdir()
+print('current working dir files',files_in_dir)
+from kasvenka@cisco.com to All Participants:
+yes mam
+from Pooja Sharma to All Participants:
+
+path=r"D:\new_data"
+os.chdir(path)
+print('changed to new dir',os.getcwd())
+from amudunur@cisco.com to Pooja Sharma (privately):
+mam can u kindly explain from current working dir
+from kasvenka@cisco.com to All Participants:
+mam we kept r before dir path what is the use of R
+from kasvenka@cisco.com to All Participants:
+ok mam
+from Pooja Sharma to All Participants:
+# create dir
+os.mkdir('D:\debug\dir1')
+print('dir created')
+from kasvenka@cisco.com to All Participants:
+created mam
